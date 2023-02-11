@@ -18,6 +18,11 @@
         <td>mergeTwoSortedLists</td>
         <td>Recursion / Linked List</td>
       </tr>
+      <tr>
+        <td>0704</td>
+        <td>binarySearch</td>
+        <td>Recursion / Binary Search</td>
+      </tr>
     </tbody>
   </table>
 </div>
