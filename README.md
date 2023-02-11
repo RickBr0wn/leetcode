@@ -1,4 +1,4 @@
-# Modern Node.js & Typescript starter
+# LeetCode
 
 <div align="center">
   <table>
