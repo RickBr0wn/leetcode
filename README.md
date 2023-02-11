@@ -52,9 +52,11 @@ npm run test:watch
 
 ### 0001 - Binary Search
 ![binarySearch](https://d331swm8rigdl5.cloudfront.net/binarySearch.png)
+<hr />
+
 ### 0021 - Merge Two Sorted Lists
 ![mergeTwoSortedLists](https://d331swm8rigdl5.cloudfront.net/mergeTwoSortedLists.png)
-
+<hr />
 
 
 ## 🧐 Built With
