@@ -54,9 +54,9 @@ npm run test:watch
 
 ## 👀 Visualisations
 
-### 0001 - Binary Search
+### 0001 - Two Sum
 [solution](https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0001%20-%20TwoSum/twoSum.ts)
-![binarySearch](https://d331swm8rigdl5.cloudfront.net/binarySearch.png)
+![twoSum](https://d331swm8rigdl5.cloudfront.net/twoSum.png)
 <hr />
 
 ### 0021 - Merge Two Sorted Lists
