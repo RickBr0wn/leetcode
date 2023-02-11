@@ -4,7 +4,7 @@
   <table>
     <tbody>
       <tr>
-        <th>Number</th>
+        <th>#</th>
         <th>Problem</th>
         <th>Solution Type</th>
       </tr>
@@ -12,6 +12,11 @@
         <td>001</td>
         <td>twoSum</td>
         <td>Hash Map</td>
+      </tr>
+      <tr>
+        <td>021</td>
+        <td>mergeTwoSortedLists</td>
+        <td>Recursion / Linked List</td>
       </tr>
     </tbody>
   </table>
