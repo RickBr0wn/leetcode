@@ -56,10 +56,12 @@ npm run test:watch
 
 ### 0001 - Binary Search
 ![binarySearch](https://d331swm8rigdl5.cloudfront.net/binarySearch.png)
+[solution](https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0001%20-%20TwoSum/twoSum.ts)
 <hr />
 
 ### 0021 - Merge Two Sorted Lists
 ![mergeTwoSortedLists](https://d331swm8rigdl5.cloudfront.net/mergeTwoSortedLists.png)
+[solution](https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0021%20-%20MergeTwoSortedLists/mergeTwoSortedLists.ts)
 <hr />
 
 
