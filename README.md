@@ -48,6 +48,11 @@ npm run test
 npm run test:watch
 ```
 
+## 👀 Visualisations
+
+### 0001 - Binary Search
+![binarySearch](https://d331swm8rigdl5.cloudfront.net/binarySearch.png)
+
 ## 🧐 Built With
 
 - [node](https://nodejs.org/en/about/) - As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications.
