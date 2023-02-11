@@ -4,19 +4,23 @@
   <table>
     <tbody>
       <tr>
-        <th>#</th>
+        <th>Visualisation</th>
         <th>Problem</th>
         <th>Solution Type</th>
       </tr>
       <tr>
-        <td>0001</td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode#0001---binary-search">0001</a>
+        </td>
         <td>
           <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0001%20-%20TwoSum/twoSum.ts">twoSum</a>
         </td>
         <td>Hash Map</td>
       </tr>
       <tr>
-        <td>0021</td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode#0021---merge-two-sorted-lists">0021</a>
+        </td>
         <td>
           <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0021%20-%20MergeTwoSortedLists/mergeTwoSortedLists.ts">mergeTwoSortedLists</a>
         </td>
