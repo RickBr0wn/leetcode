@@ -10,22 +10,30 @@
       </tr>
       <tr>
         <td>0001</td>
-        <td>twoSum</td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0001%20-%20TwoSum/twoSum.ts">twoSum</a>
+        </td>
         <td>Hash Map</td>
       </tr>
       <tr>
         <td>0021</td>
-        <td>mergeTwoSortedLists</td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0021%20-%20MergeTwoSortedLists/mergeTwoSortedLists.ts">mergeTwoSortedLists</a>
+        </td>
         <td>Recursion / Linked List</td>
       </tr>
       <tr>
         <td>0374</td>
-        <td>guessNumberHigherOrLower</td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0374%20-%20GuessNumberHigherOrLower/guessNumberHigherOrLower.ts">guessNumberHigherOrLower</a>
+        </td>
         <td>Recursion / Binary Search</td>
       </tr>
       <tr>
         <td>0704</td>
-        <td>binarySearch</td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0704%20-%20BinarySearch/binarySearch.ts">binarySearch</a>
+        </td>
         <td>Recursion / Binary Search</td>
       </tr>
     </tbody>
