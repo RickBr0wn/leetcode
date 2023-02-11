@@ -9,12 +9,12 @@
         <th>Solution Type</th>
       </tr>
       <tr>
-        <td>001</td>
+        <td>0001</td>
         <td>twoSum</td>
         <td>Hash Map</td>
       </tr>
       <tr>
-        <td>021</td>
+        <td>0021</td>
         <td>mergeTwoSortedLists</td>
         <td>Recursion / Linked List</td>
       </tr>
