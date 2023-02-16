@@ -48,6 +48,13 @@
         <td>Hash Map</td>
       </tr>
       <tr>
+        <td>1365</td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode/tree/master/leetcode/1365%20-%20HowManyNumbersAreSmallerThanTheCurrentNumber">howManyNumbersAreSmallerThanTheCurrentNumber</a>
+        </td>
+        <td>Hash Map || Loops</td>
+      </tr>
+      <tr>
         <td>1512</td>
         <td>
           <a href="https://github.com/RickBr0wn/leetcode/tree/master/leetcode/1512%20-%20NumberOfGoodPairs">numberOfGoodPairs</a>
@@ -57,7 +64,7 @@
     </tbody>
   </table>
 </div>
-
+1365 - howManyNumbersAreSmallerThanTheCurrentNumber
 ## 🧪 Running the tests
 
 ```bash
