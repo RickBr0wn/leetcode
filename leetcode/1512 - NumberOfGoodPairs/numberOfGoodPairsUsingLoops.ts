@@ -20,17 +20,19 @@
  * 1 <= nums.length <= 100
  * 1 <= nums[i] <= 100
  */
-const numIdenticalPairs = (nums: number[]): number => {
-  const map = new Map<number, number>()
-  for (const n of nums) {
-    map.set(n, (map.get(n) || 0) + 1)
+const numberOfGoodPairsUsingLoops = (nums: number[]): number => {
+  let count = 0
+  let i = 0
+  nums.sort((a, b) => a - b)
+
+  for (let j = 1; j < nums.length; j++) {
+    if (nums[j] == nums[i]) {
+      count += j - i
+    } else {
+      i = j
+    }
   }
-  console.log(map)
-  let res = 0
-  for (const [key] of map) {
-    res += (map.get(key) * (map.get(key) - 1)) / 2
-  }
-  return res
+  return count
 }
 
-export default numIdenticalPairs
+export default numberOfGoodPairsUsingLoops

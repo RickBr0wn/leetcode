@@ -52,7 +52,7 @@
         <td>
           <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/1512%20-%20NumberOfGoodPairs/numberOfGoodPairs.ts">numberOfGoodPairs</a>
         </td>
-        <td>Hash Map</td>
+        <td>Hash Map || Loops</td>
       </tr>
     </tbody>
   </table>
