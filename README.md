@@ -40,6 +40,13 @@
         </td>
         <td>Recursion / Binary Search</td>
       </tr>
+      <tr>
+        <td>0771</td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0771%20-%20JewelsAndStones/jewelsAndStones.ts">jewelsAndStones</a>
+        </td>
+        <td>Hash Map</td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -62,6 +69,11 @@ npm run test:watch
 ### 0021 - Merge Two Sorted Lists
 [solution](https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0021%20-%20MergeTwoSortedLists/mergeTwoSortedLists.ts)
 ![mergeTwoSortedLists](https://d331swm8rigdl5.cloudfront.net/mergeTwoSortedLists.png)
+<hr />
+
+### 0021 - Guess Number Higher Or Lower
+[solution](https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0021%20-%20guessNumberHigherOrLower/guessNumberHigherOrLower.ts)
+![guessNumberHigherOrLower](https://d331swm8rigdl5.cloudfront.net/guessNumberHigherOrLower.png)
 <hr />
 
 
