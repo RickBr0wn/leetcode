@@ -47,6 +47,13 @@
         </td>
         <td>Hash Map</td>
       </tr>
+      <tr>
+        <td>1512</td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/1512%20-%20NumberOfGoodPairs/numberOfGoodPairs.ts">numberOfGoodPairs</a>
+        </td>
+        <td>Hash Map</td>
+      </tr>
     </tbody>
   </table>
 </div>
