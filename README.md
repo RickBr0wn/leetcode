@@ -86,7 +86,7 @@
     </tbody>
   </table>
 </div>
-1365 - howManyNumbersAreSmallerThanTheCurrentNumber
+
 ## 🧪 Running the tests
 
 ```bash
