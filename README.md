@@ -57,7 +57,7 @@
       <tr>
         <td>1480</td>
         <td>
-          <a href="https://github.com/RickBr0wn/leetcode/tree/master/leetcode/1512%20-%20RunningSumOf1dArray">runningSumOf1dArray</a>
+          <a href='https://github.com/RickBr0wn/leetcode/blob/master/leetcode/1480%20-%20RunningSumOf1dArray/runningSumOf1dArray.ts'>runningSumOf1dArray</a>
         </td>
         <td>Arrays</td>
       </tr>
