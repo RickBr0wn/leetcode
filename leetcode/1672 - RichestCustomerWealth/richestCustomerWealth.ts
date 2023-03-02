@@ -52,4 +52,7 @@ const richestCustomerWealth = (accounts: number[][]): number => {
   return wealthiest
 }
 
+// Time Complexity: O(n x m)
+// Space Complexity: O(1) - constant
+
 export default richestCustomerWealth

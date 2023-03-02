@@ -43,4 +43,7 @@ const numberOfStepsToReduceANumberToZero = (num: number): number => {
   return counter
 }
 
+// Time Complexity: O(log n)
+// Space Complexity: O(1) - constant
+
 export default numberOfStepsToReduceANumberToZero

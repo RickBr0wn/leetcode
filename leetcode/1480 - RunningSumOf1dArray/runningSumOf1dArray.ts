@@ -28,4 +28,7 @@ const runningSumOf1dArray = (nums: number[]): number[] => {
   return sum
 }
 
+// Time Complexity: O(n) - linear
+// Space Complexity: O(1) - constant
+
 export default runningSumOf1dArray

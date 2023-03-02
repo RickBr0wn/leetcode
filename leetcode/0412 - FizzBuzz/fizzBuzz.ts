@@ -36,4 +36,7 @@ const fizzBuzz = (n: number): string[] => {
   return output
 }
 
+// Time Complexity: O(n) - linear
+// Space Complexity: O(1) - constant
+
 export default fizzBuzz
