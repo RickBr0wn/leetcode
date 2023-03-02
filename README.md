@@ -71,7 +71,7 @@
       <tr>
         <td>1672</td>
         <td>
-          <a href="https://github.com/RickBr0wn/leetcode/tree/master/leetcode/1512%20-%20RichestCustomerWealth/richestCustomerWealth">richestCustomerWealth</a>
+          <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/1672%20-%20RichestCustomerWealth/richestCustomerWealth.ts">richestCustomerWealth</a>
         </td>
         <td>2d Arrays</td>
       </tr>
