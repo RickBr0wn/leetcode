@@ -91,6 +91,13 @@
         </td>
         <td>2d Arrays</td>
       </tr>
+      <tr>
+        <td>2325</td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/2325%20-%20DecodeTheMessage/decodeTheMessage.ts">decodeTheMessage</a>
+        </td>
+        <td>Hash Map</td>
+      </tr>
     </tbody>
   </table>
 </div>
