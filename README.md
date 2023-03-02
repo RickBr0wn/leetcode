@@ -55,6 +55,13 @@
         <td>Hash Map || Loops</td>
       </tr>
       <tr>
+        <td>1480</td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode/tree/master/leetcode/1512%20-%20RunningSumOf1dArray">runningSumOf1dArray</a>
+        </td>
+        <td>Arrays</td>
+      </tr>
+      <tr>
         <td>1512</td>
         <td>
           <a href="https://github.com/RickBr0wn/leetcode/tree/master/leetcode/1512%20-%20NumberOfGoodPairs">numberOfGoodPairs</a>
