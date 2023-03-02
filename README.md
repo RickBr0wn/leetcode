@@ -56,6 +56,14 @@
         <td>Hash Map</td>
       </tr>
       <tr>
+      <tr>
+        <td>1342</td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/1342%20-%20NumberOfStepsToReduceANumberToZero/numberOfStepsToReduceANumberToZero.ts">numberOfStepsToReduceANumberToZero</a>
+        </td>
+        <td>Beginner</td>
+      </tr>
+      <tr>
         <td>1365</td>
         <td>
           <a href="https://github.com/RickBr0wn/leetcode/tree/master/leetcode/1365%20-%20HowManyNumbersAreSmallerThanTheCurrentNumber">howManyNumbersAreSmallerThanTheCurrentNumber</a>
