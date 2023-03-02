@@ -34,6 +34,14 @@
         <td>Recursion / Binary Search</td>
       </tr>
       <tr>
+      <tr>
+        <td>0412</td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0412%20-%20FizzBuzz/fizzBuzz.ts">fizzBuzz</a>
+        </td>
+        <td>Arrays</td>
+      </tr>
+      <tr>
         <td>0704</td>
         <td>
           <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0704%20-%20BinarySearch/binarySearch.ts">binarySearch</a>
