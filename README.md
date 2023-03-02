@@ -56,6 +56,12 @@
         <td>Hash Map</td>
       </tr>
       <tr>
+        <td>0876</td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0876%20-%20MiddleOfALinkedList/middleOfALinkedList.ts">middleOfALinkedList</a>
+        </td>
+        <td>Linked List</td>
+      </tr>
       <tr>
         <td>1342</td>
         <td>
