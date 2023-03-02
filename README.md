@@ -35,6 +35,14 @@
       </tr>
       <tr>
       <tr>
+        <td>0383</td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0383%20-%20RansomNote/ransomNote.ts">ransomNote</a>
+        </td>
+        <td>Hash Map</td>
+      </tr>
+      <tr>
+      <tr>
         <td>0412</td>
         <td>
           <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0412%20-%20FizzBuzz/fizzBuzz.ts">fizzBuzz</a>
