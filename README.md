@@ -68,6 +68,13 @@
         </td>
         <td>Hash Map || Loops</td>
       </tr>
+      <tr>
+        <td>1672</td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode/tree/master/leetcode/1512%20-%20RichestCustomerWealth/richestCustomerWealth">richestCustomerWealth</a>
+        </td>
+        <td>2d Arrays</td>
+      </tr>
     </tbody>
   </table>
 </div>
