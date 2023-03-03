@@ -36,6 +36,13 @@
         <td>Recursion</td>
       </tr>
       <tr>
+        <td>0088</td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0088%20-%20MergeSortedArray/mergeSortedArray.ts">mergeSortedArray</a>
+        </td>
+        <td>While Loop</td>
+      </tr>
+      <tr>
         <td>0374</td>
         <td>
           <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0374%20-%20GuessNumberHigherOrLower/guessNumberHigherOrLower.ts">guessNumberHigherOrLower</a>
