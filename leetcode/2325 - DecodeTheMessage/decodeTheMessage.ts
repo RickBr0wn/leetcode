@@ -21,7 +21,6 @@ const decodeTheMessage = (key: string, message: string): string => {
     output += char === ' ' ? char : map[char]
   }
 
-  console.log(map)
   return output
 }
 
