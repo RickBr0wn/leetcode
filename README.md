@@ -27,6 +27,15 @@
         <td>Recursion / Linked List</td>
       </tr>
       <tr>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode#0021---merge-two-sorted-lists">0027</a>
+        </td>
+        <td>
+          <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0027%20-%20RemoveElement/removeElement.ts">removeElement</a>
+        </td>
+        <td>Recursion</td>
+      </tr>
+      <tr>
         <td>0374</td>
         <td>
           <a href="https://github.com/RickBr0wn/leetcode/blob/master/leetcode/0374%20-%20GuessNumberHigherOrLower/guessNumberHigherOrLower.ts">guessNumberHigherOrLower</a>
